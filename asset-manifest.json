@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vedantuTask/static/css/main.63bac6d9.chunk.css",
+    "main.js": "/vedantuTask/static/js/main.52e3c026.chunk.js",
+    "main.js.map": "/vedantuTask/static/js/main.52e3c026.chunk.js.map",
+    "runtime-main.js": "/vedantuTask/static/js/runtime-main.469f0419.js",
+    "runtime-main.js.map": "/vedantuTask/static/js/runtime-main.469f0419.js.map",
+    "static/js/2.228fe6da.chunk.js": "/vedantuTask/static/js/2.228fe6da.chunk.js",
+    "static/js/2.228fe6da.chunk.js.map": "/vedantuTask/static/js/2.228fe6da.chunk.js.map",
+    "index.html": "/vedantuTask/index.html",
+    "precache-manifest.e709e046889d7ed4cad10f6f5c7f9f33.js": "/vedantuTask/precache-manifest.e709e046889d7ed4cad10f6f5c7f9f33.js",
+    "service-worker.js": "/vedantuTask/service-worker.js",
+    "static/css/main.63bac6d9.chunk.css.map": "/vedantuTask/static/css/main.63bac6d9.chunk.css.map",
+    "static/js/2.228fe6da.chunk.js.LICENSE": "/vedantuTask/static/js/2.228fe6da.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.469f0419.js",
+    "static/js/2.228fe6da.chunk.js",
+    "static/css/main.63bac6d9.chunk.css",
+    "static/js/main.52e3c026.chunk.js"
+  ]
+}
